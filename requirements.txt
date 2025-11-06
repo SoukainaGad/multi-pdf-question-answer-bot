@@ -1,8 +1,8 @@
 python-dotenv
 streamlit
 sentence-transformers
-langchain-community
 langchain
+langchain-community
 langchain-huggingface
 langchain-text-splitters
 langchain-chroma
