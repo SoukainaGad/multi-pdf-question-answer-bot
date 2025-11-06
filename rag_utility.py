@@ -2,9 +2,9 @@ import os
 from dotenv import load_dotenv
 
 from langchain_community.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
 from langchain.chains import RetrievalQA
 
