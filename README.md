@@ -14,11 +14,11 @@ Built with **Streamlit**, **LangChain**, **Chroma**, and **Groq’s Llama-3.3-70
 
 ## 🧠 Key Features
 
-- 📂 Upload and analyze **multiple PDFs at once**
-- ✂️ Automatic **text extraction, chunking, and embedding**
-- 🔍 Query **all uploaded documents simultaneously** using RAG
-- ⚡ Powered by **Llama-3.3-70B (Groq)** for fast, reliable answers
-- 💾 Local vector storage with **ChromaDB** for reusability
+- Upload and analyze **multiple PDFs at once**
+- Automatic **text extraction, chunking, and embedding**
+- Query **all uploaded documents simultaneously** using RAG
+- Powered by **Llama-3.3-70B (Groq)** for fast, reliable answers
+- Local vector storage with **ChromaDB** for reusability
 
 ---
 
